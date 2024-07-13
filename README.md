@@ -11,24 +11,33 @@
 前后分离 ，前端vue ，后端c#
 
 ####软件说明
-![Uploading 不良事件首页.png…]()
 
-![等级评审和不良事件首页-通知](https://github.com/user-attachments/assets/94c44bdd-97ae-40b9-9e36-3b9abff2a6f4)
+ ![不良事件首页](https://github.com/user-attachments/assets/71e59852-7c6f-42db-b973-2c6f04ceda6b)
+ ![等级评审和不良事件首页-通知](https://github.com/user-attachments/assets/b895ca5f-c4bd-400f-81f3-f4f8d9abe0ca)
 
-![输入图片说明](images/%E7%AD%89%E7%BA%A7%E8%AF%84%E5%AE%A1%E5%92%8C%E4%B8%8D%E8%89%AF%E4%BA%8B%E4%BB%B6%E9%A6%96%E9%A1%B5-%E9%80%9A%E7%9F%A5.png)
+![后端-考评配置](https://github.com/user-attachments/assets/d99cc9f6-4aef-4a85-8a0e-acca03e0a1f5)
 
-![输入图片说明](images/%E6%B5%99%E6%B1%9F%E8%82%BF%E7%98%A4%E5%8C%BB%E9%99%A2-%E7%AD%89%E7%BA%A7%E8%AF%84%E5%AE%A1.png)
+![后端-组织架构](https://github.com/user-attachments/assets/97fec9bc-3fc5-4958-b1d5-b21005b05b7f)
 
-![输入图片说明](images/%E8%AF%84%E5%AE%A1%E6%A0%87%E5%87%86.png)
 
-![输入图片说明](images/%E8%80%83%E8%AF%95%E7%AE%A1%E7%90%86-%E5%BD%95%E5%85%A5%E9%A2%98%E5%BA%93.png)
+![考试管理-录入题库](https://github.com/user-attachments/assets/76bb8b52-6299-4b50-ad63-f9a0184f348c)
 
-![输入图片说明](images/%E5%88%B6%E5%BA%A6%E7%AE%A1%E7%90%86.png)
 
-![输入图片说明](images/%E6%97%A5%E5%B8%B8%E7%AE%A1%E7%90%86.png)
-![输入图片说明](images/%E5%9F%B9%E8%AE%AD%E7%AE%A1%E7%90%86-%E6%88%91%E7%9A%84%E5%9F%B9%E8%AE%AD.png)
+![培训管理-我的培训](https://github.com/user-attachments/assets/7f3a0a09-157d-4ae3-8df3-a35ca863ff4d)
 
-![输入图片说明](images/%E6%97%A5%E5%B8%B8%E7%AE%A1%E7%90%86.png)
- 
+![评审标准](https://github.com/user-attachments/assets/52fff4c7-f507-4b19-9678-1c788c6e2dc2)
+![日常管理](https://github.com/user-attachments/assets/bbc0a86b-cda8-4df4-8947-cc7177241ce7)
+
+![事件统计-按类型统计](https://github.com/user-attachments/assets/6c4cded0-33cd-41c3-a33e-dd275feb6d1b)
+
+![填写报告](https://github.com/user-attachments/assets/1592a102-4a12-4962-beb6-80a9eace7811)
+![已=处理事件](https://github.com/user-attachments/assets/90d81dbc-13f2-403b-a2e7-548d5eea6deb)
+![浙江肿瘤医院-等级评审](https://github.com/user-attachments/assets/15bf6cec-7215-411d-8c18-d179c97fdaa4)
+
+![浙江肿瘤医院-考试管理](https://github.com/user-attachments/assets/1cfb6ef5-d3bc-488d-adfc-833441d928f2)
+
+![制度管理](https://github.com/user-attachments/assets/2462bab3-6173-4289-ba5c-9820f19645ba)
+
+
 ####联系方式
 QQ  75039960
