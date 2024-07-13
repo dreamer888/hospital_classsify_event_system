@@ -11,7 +11,8 @@
 前后分离 ，前端vue ，后端c#
 
 ####软件说明
-![输入图片说明](images/%E4%B8%8D%E8%89%AF%E4%BA%8B%E4%BB%B6%E9%A6%96%E9%A1%B5.png)
+![Uploading 不良事件首页.png…]()
+
 
 ![输入图片说明](images/%E7%AD%89%E7%BA%A7%E8%AF%84%E5%AE%A1%E5%92%8C%E4%B8%8D%E8%89%AF%E4%BA%8B%E4%BB%B6%E9%A6%96%E9%A1%B5-%E9%80%9A%E7%9F%A5.png)
 
